@@ -2,7 +2,7 @@
     Neural Network in NumPy to classify the MNIST Dataset.
     Accuracy: 89.14% after 20 iterations
 '''
-# Using TensorFloe Initially to sort out tthe initial data. Actual NN uses only numpy. Promise.
+# Using TensorFloe Initially to sort out the initial data. Actual NN uses only numpy. Promise.
 import tensorflow as tf
 import numpy as np
 from tensorflow import keras
